@@ -1,0 +1,2 @@
+# .env
+DATABASE_URL=postgresql://username:password@localhost:5432/todo_db
